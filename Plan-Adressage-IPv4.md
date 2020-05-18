@@ -1,4 +1,4 @@
-| Réseau             | Plages d'adresses IP |  Périphériques | 
+| Réseau               | Plages d'adresses IP   |  Périphériques | 
 | :----------------- | :-------------:      |  -------------:|
 | DATA VLAN 10       | 192.168.10.0/24      |        Colonne | 
 | VOICE VLAN 20      | 192.168.20.0/24      |      Alignée à | 
